@@ -1,0 +1,1307 @@
+SOURCE        : On the other hand , the achievement perceiving is to make comparison in the wire direction , which is comparing the current situation with the historical situation in the past .
+HYPOTHESIS    : On the other hand , the achievement perceiving is to make comparisons in the wire direction , which is comparing the current situation with historical situation in the past .
+EDIT SEQ      : [(22, 25, u'situation with the', u'situation with'), (9, 12, u'to make comparison', u'to make comparisons')]
+GOLD EDITS    : []
+--------------------------------------------------
+
+SOURCE        : So , in the following , I will clarify these two different views for rising life expectancies .
+HYPOTHESIS    : So , in the following , I will clarify these two different views for rising life expectancy .
+EDIT SEQ      : []
+GOLD EDITS    : [(13, 14, u'for', [u'of'])]
+--------------------------------------------------
+
+SOURCE        : We should image that when the life expectancies are raised up ; this will mean that the average age for the population in nation wise or globally is also rising .
+HYPOTHESIS    : We should images that when life expectancy are raised up ; this will mean that the average age of the population in the nation wise or globally is also rising .
+EDIT SEQ      : [(23, 25, u'nation wise', u'the nation wise'), (2, 6, u'image that when the', u'images that when')]
+GOLD EDITS    : [(8, 9, u'are', [u'raises']), (9, 10, u'raised', [u'']), (10, 11, u'up', [u'']), (22, 23, u'in', [u''])]
+--------------------------------------------------
+
+SOURCE        : The number of the older people will increase to make the average life expectancies higher .
+HYPOTHESIS    : The number of older people will increase to make the average life expectancy higher .
+EDIT SEQ      : [(1, 4, u'number of the', u'number of')]
+GOLD EDITS    : []
+--------------------------------------------------
+
+SOURCE        : For these older people , the society need man power and all kinds of resources to provide a better life for them .
+HYPOTHESIS    : For these older people , the society need man power and all kinds of resources to provide a better life for them .
+EDIT SEQ      : []
+GOLD EDITS    : [(5, 6, u'the', [u'']), (7, 8, u'need', [u'needs'])]
+--------------------------------------------------
+
+SOURCE        : However , these older people usually contribute less or nearly have no productivity for the society .
+HYPOTHESIS    : However , these older people usually contribute less or nearly had no product of the society .
+EDIT SEQ      : [(10, 15, u'have no productivity for the', u'had no product of the')]
+GOLD EDITS    : [(13, 14, u'for', [u'in']), (14, 15, u'the', [u''])]
+--------------------------------------------------
+
+SOURCE        : Not only has the family member of the old people , but also the government needed to spend a lot of effort to handle such situation .
+HYPOTHESIS    : Not only have the family members of old people , but also the government needs to spend a lot of effort to handle such situations .
+EDIT SEQ      : [(23, 26, u'handle such situation', u'handle such situations'), (13, 16, u'the government needed', u'the government needs'), (5, 9, u'member of the old', u'members of old'), (1, 4, u'only has the', u'only have the')]
+GOLD EDITS    : [(2, 3, u'has', [u'']), (22, 23, u'to', [u'into']), (25, 26, u'situation', [u'a situation'])]
+--------------------------------------------------
+
+SOURCE        : This is the interpretation of challenge for rising life expectancies .
+HYPOTHESIS    : This is the interpretation of a challenge for rising life expectancy .
+EDIT SEQ      : [(3, 5, u'interpretation of', u'interpretation of a')]
+GOLD EDITS    : [(5, 6, u'challenge', [u'the challenge']), (6, 7, u'for', [u'of'])]
+--------------------------------------------------
+
+SOURCE        : The achievement is some kind of a comparison with the history in the past .
+HYPOTHESIS    : The achievement is some kind of comparison with the history in the past .
+EDIT SEQ      : []
+GOLD EDITS    : [(3, 6, u'some kind of', [u'in']), (9, 10, u'the', [u''])]
+--------------------------------------------------
+
+SOURCE        : In the ancient time , due to the less development of science and technology , people had less medicine or medical equipment and took less care for their healthy .
+HYPOTHESIS    : In ancient times , due to the less developed of science and technology , people have less medicine or medical equipment and take less care for their health .
+EDIT SEQ      : [(28, 30, u'healthy .', u'health .'), (21, 24, u'equipment and took', u'equipment and take'), (14, 17, u', people had', u', people have'), (7, 10, u'the less development', u'the less developed')]
+GOLD EDITS    : [(26, 27, u'for', [u'of']), (27, 28, u'their', [u'the'])]
+--------------------------------------------------
+
+SOURCE        : On the other hand , there are not sufficient materials or ways to improve people 's daily life .
+HYPOTHESIS    : On the other hand , there is not sufficient materials or ways to improve people 's daily life .
+EDIT SEQ      : [(4, 7, u', there are', u', there is')]
+GOLD EDITS    : []
+--------------------------------------------------
+
+SOURCE        : People do not know how to protect their tooth from becoming decayed tooth .
+HYPOTHESIS    : People do not know how to protect their teeth from becoming decayed teeth .
+EDIT SEQ      : [(10, 13, u'becoming decayed tooth', u'becoming decayed teeth'), (6, 9, u'protect their tooth', u'protect their teeth')]
+GOLD EDITS    : []
+--------------------------------------------------
+
+SOURCE        : These small things makes the quality of people 's life less enjoyable than today .
+HYPOTHESIS    : These small things make the quality of people 's life less enjoyable than today .
+EDIT SEQ      : [(1, 4, u'small things makes', u'small things make')]
+GOLD EDITS    : []
+--------------------------------------------------
+
+SOURCE        : Bad mood can not give them a longer time of life .
+HYPOTHESIS    : Bad mood can not give them a long time in the life .
+EDIT SEQ      : [(7, 11, u'longer time of life', u'long time in the life')]
+GOLD EDITS    : [(0, 1, u'Bad', [u'A bad'])]
+--------------------------------------------------
+
+SOURCE        : Due to all these reasons , people died quite early , which results in a low life expectancy .
+HYPOTHESIS    : Due to all these reasons , people died quite early , which resulted in a low life expectancy .
+EDIT SEQ      : [(10, 13, u', which results', u', which resulted')]
+GOLD EDITS    : []
+--------------------------------------------------
+
+SOURCE        : So , the mark for how long is the life expectancy is indicating how well people is living .
+HYPOTHESIS    : So , the mark for how long is life expectancy is indicate how well people are living .
+EDIT SEQ      : [(16, 19, u'is living .', u'are living .'), (12, 15, u'indicating how well', u'indicate how well')]
+GOLD EDITS    : [(2, 3, u'the', [u'a']), (11, 13, u'is indicating', [u'indicates']), (16, 18, u'is living', [u'live'])]
+--------------------------------------------------
+
+SOURCE        : In that sense , rising life expectancies can be considered as an achievement .
+HYPOTHESIS    : In that sense , rising life expectancy can be considered as an achievement .
+EDIT SEQ      : [(4, 7, u'rising life expectancies', u'rising life expectancy')]
+GOLD EDITS    : []
+--------------------------------------------------
+
+SOURCE        : From these points , we ourselves should be glad that we can live longer and enjoy a better living environment .
+HYPOTHESIS    : of these points , we ourselves should be glad that we can live longer and enjoy a better living environment .
+EDIT SEQ      : [(0, 3, u'From these points', u'of these points')]
+GOLD EDITS    : []
+--------------------------------------------------
+
+SOURCE        : We should try our best to take care of them as if we are the ones who are old .
+HYPOTHESIS    : We should try our best to take care of them as if we are the one who are old .
+EDIT SEQ      : [(13, 16, u'are the ones', u'are the one')]
+GOLD EDITS    : []
+--------------------------------------------------
+
+SOURCE        : In such a situation , the society can develop in a harmonious and healthy way .
+HYPOTHESIS    : In such a situation , the society can develop in a harmonious and healthy way .
+EDIT SEQ      : []
+GOLD EDITS    : [(5, 6, u'the', [u''])]
+--------------------------------------------------
+
+SOURCE        : As the world is at the turning point of entering into a stage where people are constantly and notably older than before , how to make life easier , comfortable as well as healthy has been shed light on .
+HYPOTHESIS    : As the world is at the turning point of entering into a stage where people are constantly and notably older than before , how to make life easier , comfortable as well as health has been shedding light on .
+EDIT SEQ      : [(33, 37, u'healthy has been shed', u'health has been shedding')]
+GOLD EDITS    : []
+--------------------------------------------------
+
+SOURCE        : Life expectancy is a figure that reveals the average lifetime and can be used as an indicator to measure up to what degree is the population ageing problem .
+HYPOTHESIS    : Life expectancy is a figure that reveals the average lifetime and can be used as an indicator to measure up to what degree is the population aged problem .
+EDIT SEQ      : [(26, 29, u'ageing problem .', u'aged problem .')]
+GOLD EDITS    : [(24, 25, u'the', [u'a'])]
+--------------------------------------------------
+
+SOURCE        : However , there are situations where we have to consider the rising life expectancy as a challenge and an achievement .
+HYPOTHESIS    : However , there are situations where we have to consider the rising life expectancy as a challenge and achievement .
+EDIT SEQ      : [(18, 21, u'an achievement .', u'achievement .')]
+GOLD EDITS    : [(10, 11, u'the', [u''])]
+--------------------------------------------------
+
+SOURCE        : Rising life expectancy is a challenge in a sense that it is highly relied on development of medication .
+HYPOTHESIS    : Rising life expectancy is a challenge without a sense that it is highly relies on the development of medication .
+EDIT SEQ      : [(11, 14, u'is highly relied', u'is highly relies'), (4, 7, u'a challenge in', u'a challenge without')]
+GOLD EDITS    : [(7, 8, u'a', [u'the'])]
+--------------------------------------------------
+
+SOURCE        : There are a series of diseases that hinders longevity .
+HYPOTHESIS    : There is a series of diseases that hinder longevity .
+EDIT SEQ      : [(1, 4, u'are a series', u'is a series')]
+GOLD EDITS    : []
+--------------------------------------------------
+
+SOURCE        : Cancers , as a major group of killing diseases , is often beyond current medication to get fully healed .
+HYPOTHESIS    : Cancers , as a major group of killer diseases , is often beyond current medication to get fully healed .
+EDIT SEQ      : [(5, 8, u'group of killing', u'group of killer')]
+GOLD EDITS    : []
+--------------------------------------------------
+
+SOURCE        : Once cancers are too late to discovered , one is deemed to death at a later stage .
+HYPOTHESIS    : Once cancer is too late to discover , one is deemed to death at a later stage .
+EDIT SEQ      : [(5, 8, u'to discovered ,', u'to discover ,'), (1, 4, u'cancers are too', u'cancer is too')]
+GOLD EDITS    : []
+--------------------------------------------------
+
+SOURCE        : Other diseases such as mental disorder and heart trouble are also top killers , the current medication does have methods to treat the patient , but risks still come along .
+HYPOTHESIS    : Other diseases such as mental disorder and heart trouble is also top killers , the current medical does have methods to treat the patient , but risks still come along .
+EDIT SEQ      : [(14, 17, u'the current medication', u'the current medical'), (7, 10, u'heart trouble are', u'heart trouble is')]
+GOLD EDITS    : [(5, 6, u'disorder', [u'disorders']), (14, 15, u'the', [u'']), (22, 23, u'the', [u'']), (23, 24, u'patient', [u'patients'])]
+--------------------------------------------------
+
+SOURCE        : Apart from diseases themselves , deficiency of medication system coverage and inefficiency during the treatment process can also restrict to make lifespan longer .
+HYPOTHESIS    : Apart from diseases themselves , deficiency in medical system coverage and inefficiency during the treatment process can also restrict to make lifespan longer .
+EDIT SEQ      : [(7, 10, u'medication system coverage', u'medical system coverage')]
+GOLD EDITS    : [(2, 3, u'diseases', [u'the diseases'])]
+--------------------------------------------------
+
+SOURCE        : Patients in many developing and less developed countries , especially African countries , are suffering from simple and easy-to-heal diseases such as cold and flu and probably at the end of the day it becomes the end of their life , albeit they could have been treated well if they were in a country where medication system has been completed and doctors and nurses are standing by to cure these people .
+HYPOTHESIS    : Patients in many developed and less developed countries , especially African countries , are suffering from simple and easy-to-heal diseases such as cold and flu and probably at the end of the day it became the end of their lives , albeit they could have been treated well if they were in a country where medical system has been completed and doctors and nurses are standing by to cure these people .
+EDIT SEQ      : [(53, 56, u'country where medication', u'country where medical'), (39, 42, u'life , albeit', u'lives , albeit'), (32, 35, u'day it becomes', u'day it became'), (1, 4, u'in many developing', u'in many developed')]
+GOLD EDITS    : [(54, 55, u'where', [u'where the'])]
+--------------------------------------------------
+
+SOURCE        : To raise life expectancy , one of the questions is how to upgrade the current medication system .
+HYPOTHESIS    : To raise life expectancy , one of the question is how to upgrade the current medical system .
+EDIT SEQ      : [(15, 18, u'medication system .', u'medical system .'), (6, 9, u'of the questions', u'of the question')]
+GOLD EDITS    : []
+--------------------------------------------------
+
+SOURCE        : Government should help encourage the breakthroughs as well as complete medication system .
+HYPOTHESIS    : Governor should help encourage the breakthrough as well as complete medical system .
+EDIT SEQ      : [(10, 13, u'medication system .', u'medical system .'), (4, 7, u'the breakthroughs as', u'the breakthrough as'), (0, 3, u'Government should help', u'Governor should help')]
+GOLD EDITS    : [(0, 1, u'Government', [u'The government']), (4, 5, u'the', [u'']), (9, 10, u'complete', [u'a complete'])]
+--------------------------------------------------
+
+SOURCE        : Development of technology is making our life easier and more comfortable .
+HYPOTHESIS    : Development of technology is making our life easier and more comfortable .
+EDIT SEQ      : []
+GOLD EDITS    : [(0, 1, u'Development', [u'The development'])]
+--------------------------------------------------
+
+SOURCE        : Compared with the world of ancient Rome or China where almost no machines are involved , people nowadays are producing batches and batches of merchandises in factories .
+HYPOTHESIS    : Compared in the world of ancient Rome or China where almost no machines are involved , people nowadays are produced batches and batches of merchandises in factories .
+EDIT SEQ      : [(17, 20, u'nowadays are producing', u'nowadays are produced'), (1, 4, u'with the world', u'in the world')]
+GOLD EDITS    : [(24, 25, u'merchandises', [u'merchandise'])]
+--------------------------------------------------
+
+SOURCE        : One can easily travel to the other half of the globe to see beautiful scenery that one dreams for his lifetime .
+HYPOTHESIS    : One can easily travel to the other half of the globe to see beautiful scenery that one dream of his lifetime .
+EDIT SEQ      : [(15, 19, u'that one dreams for', u'that one dream of')]
+GOLD EDITS    : [(17, 18, u'dreams', [u'dreams of']), (19, 20, u'his', [u'a'])]
+--------------------------------------------------
+
+SOURCE        : One can also easily see his deeply loved one through internet from miles away .
+HYPOTHESIS    : One can also easily see his deeply loved one through the internet about miles away .
+EDIT SEQ      : [(11, 14, u'from miles away', u'about miles away')]
+GOLD EDITS    : [(5, 6, u'his', [u'a'])]
+--------------------------------------------------
+
+SOURCE        : More importantly , they can share their ideas of how to keep healthy through Internet , to make more interested people get involve and find ways to make life longer and more wonderful .
+HYPOTHESIS    : More importantly , they can share their ideas of how to keep health through the Internet , to make more interested people get involved and find ways to make life longer and more wonderful .
+EDIT SEQ      : [(10, 13, u'to keep healthy', u'to keep health')]
+GOLD EDITS    : []
+--------------------------------------------------
+
+SOURCE        : The development of technology brings people joy , making things easier and this may be one of the achievements .
+HYPOTHESIS    : The development of technology brings people joy , make things easier and this may be one of the achievements .
+EDIT SEQ      : [(6, 9, u'joy , making', u'joy , make')]
+GOLD EDITS    : []
+--------------------------------------------------
+
+SOURCE        : In conclusion , it is delighted to observe the fact that life expectancies are rising , but one must have the idea in mind that rising life expectancies is never easy .
+HYPOTHESIS    : In conclusion , it was delighted to observe the fact that life expectancy are rising , but one must have the idea in mind that rising life expectancy is never easy .
+EDIT SEQ      : [(4, 7, u'is delighted to', u'was delighted to')]
+GOLD EDITS    : [(13, 14, u'are', [u'is']), (24, 25, u'that', [u'that a'])]
+--------------------------------------------------
+
+SOURCE        : There are a series of problems that hinders longevity such as current medication .
+HYPOTHESIS    : There is a series of problems that hinder longevity such as current medications .
+EDIT SEQ      : [(12, 14, u'medication .', u'medications .'), (1, 4, u'are a series', u'is a series')]
+GOLD EDITS    : []
+--------------------------------------------------
+
+SOURCE        : But data that shows the rising of life expectancies is indeed an achievement that reveals the improvement of modern life .
+HYPOTHESIS    : But the data that shows the rise in life expectancy is indeed an achievement that reveals the improvement of modern life .
+EDIT SEQ      : [(4, 6, u'the rising', u'the rise'), (1, 3, u'data that', u'the data that')]
+GOLD EDITS    : [(3, 4, u'shows', [u'show'])]
+--------------------------------------------------
+
+SOURCE        : In recents decedes , it is a trend that people are able to live a longer life .
+HYPOTHESIS    : In recents decedes , it is a trend that people are able to live a long life .
+EDIT SEQ      : [(15, 18, u'longer life .', u'long life .')]
+GOLD EDITS    : []
+--------------------------------------------------
+
+SOURCE        : This is due to the improvements and breakthroughs in the realm of medication and people 's living condition .
+HYPOTHESIS    : This is due to the improvements and breakthroughs in the realm of medication and people 's living conditions .
+EDIT SEQ      : [(15, 18, u"'s living condition", u"'s living conditions")]
+GOLD EDITS    : []
+--------------------------------------------------
+
+SOURCE        : While it is applaudable that people achieved great success in prolonging their lives , there are social challenges posted by the rising life expectancies .
+HYPOTHESIS    : While it is applaudable that people achieve great success in prolonging their lives , there are social challenges posted in the rising life expectancy .
+EDIT SEQ      : [(17, 20, u'challenges posted by', u'challenges posted in'), (4, 7, u'that people achieved', u'that people achieve')]
+GOLD EDITS    : [(20, 21, u'the', [u''])]
+--------------------------------------------------
+
+SOURCE        : Without a doubt , the rising life expectancy is definitely a success in human history as it shows the achievements of the medical industries in finding out ways and medicines to treat diseases that were thought to be incurable in the past and providing people with vaccines to prevent diseases .
+HYPOTHESIS    : Without a doubt , the rising life expectancy is definitely a success in human history as it shows the achievements of the medical industry in finding out ways and medicines to treat diseases that are thought to be incurable in the past and provide people with vaccines to prevent disease .
+EDIT SEQ      : [(47, 50, u'to prevent diseases', u'to prevent disease'), (41, 44, u'past and providing', u'past and provide'), (32, 35, u'diseases that were', u'diseases that are'), (21, 24, u'the medical industries', u'the medical industry')]
+GOLD EDITS    : [(4, 5, u'the', [u''])]
+--------------------------------------------------
+
+SOURCE        : The condition of the living environment is also improved that people are able to live in more hyginenic places .
+HYPOTHESIS    : The condition of living environment is also improved that people are able to live in more hyginenic place .
+EDIT SEQ      : [(16, 19, u'more hyginenic places', u'more hyginenic place'), (1, 4, u'condition of the', u'condition of')]
+GOLD EDITS    : []
+--------------------------------------------------
+
+SOURCE        : The improvement in technology also eases people 's lives by replacing all the manual labourous works with easy and simple machine operative works .
+HYPOTHESIS    : The improvement in technology also ease people 's lives by replacing all the manual labourous works with ease and simple machine operative works .
+EDIT SEQ      : [(15, 18, u'works with easy', u'works with ease'), (3, 6, u'technology also eases', u'technology also ease')]
+GOLD EDITS    : [(22, 23, u'works', [u'work'])]
+--------------------------------------------------
+
+SOURCE        : Due to the three major factors stated above , people are no longer exposed to disease-breeding living environments , are able to cure their diseases considered fatal last time and do not need to do much labourous work .
+HYPOTHESIS    : Due to the three major factors stated above , people are no longer exposed to disease-breeding living environment , be able to cure their disease considered fatal last time and do not need to do much labourous work .
+EDIT SEQ      : [(22, 25, u'cure their diseases', u'cure their disease'), (17, 21, u'environments , are able', u'environment , be able')]
+GOLD EDITS    : [(23, 24, u'their', [u''])]
+--------------------------------------------------
+
+SOURCE        : The rising life expectancies best prove these improvements and have definitely written a new chapter on the history human civilisation .
+HYPOTHESIS    : The rising life expectancy best prove these improvements and has definitely write a new chapter of the history human civilisation .
+EDIT SEQ      : [(14, 16, u'chapter on', u'chapter of'), (10, 13, u'definitely written a', u'definitely write a'), (1, 4, u'rising life expectancies', u'rising life expectancy')]
+GOLD EDITS    : [(0, 2, u'The rising', [u'Rising']), (3, 4, u'expectancies', [u'expetancy']), (5, 6, u'prove', [u'proves']), (15, 16, u'on', [u'in']), (17, 18, u'history', [u'history of'])]
+--------------------------------------------------
+
+SOURCE        : However , as life expectancy rises , some social challenges occurred as well .
+HYPOTHESIS    : However , as life expectancy rises , some social challenges occur as well .
+EDIT SEQ      : [(8, 11, u'social challenges occurred', u'social challenges occur')]
+GOLD EDITS    : []
+--------------------------------------------------
+
+SOURCE        : This creates a huge social burden to them and might cause some of them leave the country when the burden becomes unbearable .
+HYPOTHESIS    : This creates a huge social burden to them and might cause some of them leave the country when the burden becomes unbearable .
+EDIT SEQ      : []
+GOLD EDITS    : [(6, 7, u'to', [u'for']), (14, 15, u'leave', [u'to leave'])]
+--------------------------------------------------
+
+SOURCE        : This would result in the lose of manpower in a country .
+HYPOTHESIS    : This would result in the loss of manpower in a country .
+EDIT SEQ      : [(3, 6, u'in the lose', u'in the loss')]
+GOLD EDITS    : [(4, 5, u'the', [u'a']), (9, 10, u'a', [u'the'])]
+--------------------------------------------------
+
+SOURCE        : Another aspect would be that as the young people feel it is hard to feed the old people in their families and themselves , they would choose not to give birth to any child in order to reduce the burdens on themselves .
+HYPOTHESIS    : Another aspect would be that as young people feel it is hard to feed the old people in their families and themselves , they would choose not to give birth to any children in order to reduce the burden on themselves .
+EDIT SEQ      : [(37, 40, u'reduce the burdens', u'reduce the burden'), (31, 34, u'to any child', u'to any children'), (4, 7, u'that as the', u'that as')]
+GOLD EDITS    : []
+--------------------------------------------------
+
+SOURCE        : This would result in decrease in birth rate of a country which is a very serious problem,especially in more developed countries as the population has already reached a minimum .
+HYPOTHESIS    : This would result in decreases in the birth rate of country which is a very serious problem , especially in more developed countries as the population has already reached a minimum .
+EDIT SEQ      : [(14, 17, u'very serious problem,especially', u'very serious problem , especially'), (7, 10, u'rate of a', u'rate of'), (4, 6, u'decrease in', u'decreases in the')]
+GOLD EDITS    : [(4, 5, u'decrease', [u'a decrease'])]
+--------------------------------------------------
+
+SOURCE        : Government will be burdened by the growing aging population as well because it needs to set aside a great amount of money to provide better welfare of the old people because they are in urgent need of it .
+HYPOTHESIS    : Government will be burdened of the growing aging population as well because it needs to set aside a great amount of money to provide better welfare of old people because they are in urgent need it .
+EDIT SEQ      : [(36, 39, u'of it .', u'it .'), (25, 28, u'welfare of the', u'welfare of'), (4, 7, u'by the growing', u'of the growing')]
+GOLD EDITS    : [(0, 1, u'Government', [u'The government'])]
+--------------------------------------------------
+
+SOURCE        : Less money will be left to develop the country and explore into new areas of business .
+HYPOTHESIS    : Less money will be left to develop the country and explore into new areas of business .
+EDIT SEQ      : []
+GOLD EDITS    : [(11, 12, u'into', [u''])]
+--------------------------------------------------
+
+SOURCE        : Afterall , it might seem difficult to handle when the aging population of a country grows , especially the developed countries with very small population .
+HYPOTHESIS    : Afterall , it might seem difficult to handle when the aging population of a country grows , especially developing countries with very small population .
+EDIT SEQ      : [(16, 20, u', especially the developed', u', especially developing')]
+GOLD EDITS    : [(22, 23, u'very', [u'a very'])]
+--------------------------------------------------
+
+SOURCE        : However , when we look at the brighter side of the reality , the rise in life expectancy proves great improvements in various realms and solved many problems we had in the past , there is hope that the aging population may transform into helpful force to a country in the future with the help of better technology and medication .
+HYPOTHESIS    : However , when we look at the brighter side of reality , the rise in life expectancy proved great improvements in various realms and solve many problems we had in the past , there is hope that the aging population may transform into helpful force in a country in the future with the help of better technology and medication .
+EDIT SEQ      : [(44, 47, u'helpful force to', u'helpful force in'), (23, 26, u'realms and solved', u'realms and solve'), (16, 19, u'life expectancy proves', u'life expectancy proved'), (8, 11, u'side of the', u'side of')]
+GOLD EDITS    : [(26, 27, u'many', [u'to many']), (44, 45, u'helpful', [u'a helpful']), (47, 48, u'a', [u'the'])]
+--------------------------------------------------
+
+SOURCE        : Life expectancy can be defined as desired level of service or better technology to make one 's life more comfortable .
+HYPOTHESIS    : Life expectancy can be defined as desired level of service or better technology to make one 's life more comfortable .
+EDIT SEQ      : []
+GOLD EDITS    : [(6, 7, u'desired', [u'a desired'])]
+--------------------------------------------------
+
+SOURCE        : People in current era are described as demanding or having high level of life expectancies in another word .
+HYPOTHESIS    : People in the current era is described as demand or have high levels of life expectancy in another word .
+EDIT SEQ      : [(9, 13, u'having high level of', u'have high levels of'), (4, 8, u'are described as demanding', u'is described as demand')]
+GOLD EDITS    : [(16, 17, u'another', [u'other']), (17, 18, u'word', [u'words'])]
+--------------------------------------------------
+
+SOURCE        : They are expecting better medication , healthier food , and cleaner environment and so on and so forth .
+HYPOTHESIS    : They are expecting better medication , healthier food , and cleaner environment and so on and so forth .
+EDIT SEQ      : []
+GOLD EDITS    : [(10, 11, u'cleaner', [u'a cleaner'])]
+--------------------------------------------------
+
+SOURCE        : However , this rising life expectancies have become a challenge and also and an achievement in the population ageing .
+HYPOTHESIS    : However , this rising life expectancy has become a challenge and also and achievement in population ageing .
+EDIT SEQ      : [(13, 16, u'an achievement in', u'achievement in')]
+GOLD EDITS    : []
+--------------------------------------------------
+
+SOURCE        : Percentage of elder is increasing annually according to United Nations ' projection .
+HYPOTHESIS    : Percentage of an elder is increased annually according to the United Nations ' projection .
+EDIT SEQ      : [(6, 8, u'according to', u'according to the'), (2, 5, u'elder is increasing', u'an elder is increased')]
+GOLD EDITS    : [(0, 1, u'Percentage', [u'The percentage'])]
+--------------------------------------------------
+
+SOURCE        : In another word , there are more elders who have lower productivity and more medical problems compare to younger people in this world population .
+HYPOTHESIS    : In another word , there are more elders who have lower productivity and more medical problems compared to young people in this world population .
+EDIT SEQ      : [(16, 20, u'compare to younger people', u'compared to young people')]
+GOLD EDITS    : [(1, 2, u'another', [u'other']), (2, 3, u'word', [u'words']), (21, 22, u'this', [u'the'])]
+--------------------------------------------------
+
+SOURCE        : On the other hand , people demand better quality of service and advanced technology such as newer I-Pad model .
+HYPOTHESIS    : On the other hand , people demand better quality of service and advanced technologies such as newer I-Pad model .
+EDIT SEQ      : [(11, 14, u'and advanced technology', u'and advanced technologies')]
+GOLD EDITS    : [(15, 16, u'as', [u'as the'])]
+--------------------------------------------------
+
+SOURCE        : In fact , these rising demands require a stronger working force who is active and higher productive than the past .
+HYPOTHESIS    : In fact , these rising demands require a stronger work force who is active and higher productive than the past .
+EDIT SEQ      : [(7, 10, u'a stronger working', u'a stronger work')]
+GOLD EDITS    : [(18, 19, u'the', [u'in the'])]
+--------------------------------------------------
+
+SOURCE        : However , ageing population is a phenomenon opposite to it .
+HYPOTHESIS    : However , aging population is a phenomenon opposite to it .
+EDIT SEQ      : [(1, 4, u', ageing population', u', aging population')]
+GOLD EDITS    : [(2, 3, u'ageing', [u'the aging']), (5, 6, u'a', [u'the']), (8, 9, u'to', [u''])]
+--------------------------------------------------
+
+SOURCE        : Ageing population leads to a working force composed of larger percentage of elders who are lower productivity and thus unable to meet the expectancy .
+HYPOTHESIS    : Aging population led to a work force composed of larger percentage of elders who are lower productivity and thus unable to meet the expectation .
+EDIT SEQ      : [(21, 24, u'meet the expectancy', u'meet the expectation'), (4, 7, u'a working force', u'a work force'), (0, 3, u'Ageing population leads', u'Aging population led')]
+GOLD EDITS    : [(0, 1, u'Ageing', [u'An ageing']), (8, 9, u'of', [u'with']), (9, 10, u'larger', [u'a larger'])]
+--------------------------------------------------
+
+SOURCE        : The second life expectancy is increased medical technology and sources .
+HYPOTHESIS    : The second life expectancy is increasing medical technology and sources .
+EDIT SEQ      : [(3, 6, u'expectancy is increased', u'expectancy is increasing')]
+GOLD EDITS    : []
+--------------------------------------------------
+
+SOURCE        : Ageing population requires more medical sources since elders needs more medical attention .
+HYPOTHESIS    : Aging population requires more medical sources since elders need more medical attention .
+EDIT SEQ      : [(6, 9, u'since elders needs', u'since elders need'), (0, 1, u'Ageing', u'Aging')]
+GOLD EDITS    : [(0, 1, u'Ageing', [u'An ageing']), (6, 7, u'since', [u'since the'])]
+--------------------------------------------------
+
+SOURCE        : However , the health level of world population shows an increasing trend due to advancing medical technology and it leads to exponential growth in number of elders worldwide .
+HYPOTHESIS    : However , the health level of world population shows an increasing trend due to advanced medical technology and it leads to exponential growth in number of elders worldwide .
+EDIT SEQ      : [(12, 15, u'due to advancing', u'due to advanced')]
+GOLD EDITS    : [(5, 6, u'of', [u'of the']), (24, 25, u'number', [u'the number'])]
+--------------------------------------------------
+
+SOURCE        : Nevertheless , provision of more medicine and better equipments as well as more medical centre is necessary to accommodate these elders .
+HYPOTHESIS    : Nevertheless , provision of more medicine and better equipment as well as more medical center is necessary to accommodate these elders .
+EDIT SEQ      : [(12, 15, u'more medical centre', u'more medical center')]
+GOLD EDITS    : [(14, 15, u'centre', [u'centres']), (15, 16, u'is', [u'are']), (19, 20, u'these', [u'the'])]
+--------------------------------------------------
+
+SOURCE        : Another rising life expectancy is a bigger house with a lower price which is raised up by younger generation .
+HYPOTHESIS    : Another rising life expectancy is a bigger house at a lower price which is raised up in younger generation .
+EDIT SEQ      : [(14, 17, u'raised up by', u'raised up in'), (6, 9, u'bigger house with', u'bigger house at')]
+GOLD EDITS    : [(15, 16, u'up', [u'']), (17, 18, u'younger', [u'the younger'])]
+--------------------------------------------------
+
+SOURCE        : Ageing population is a consequence of increasing health level of population .
+HYPOTHESIS    : Aging population is a consequence of increased health level of population .
+EDIT SEQ      : [(4, 7, u'consequence of increasing', u'consequence of increased'), (0, 1, u'Ageing', u'Aging')]
+GOLD EDITS    : [(0, 1, u'Ageing', [u'An ageing']), (5, 6, u'of', [u'of the']), (10, 11, u'population', [u'the population'])]
+--------------------------------------------------
+
+SOURCE        : The concurrent result is increasing size of population .
+HYPOTHESIS    : The concurrent result is increased size of the population .
+EDIT SEQ      : [(4, 7, u'increasing size of', u'increased size of')]
+GOLD EDITS    : [(4, 5, u'increasing', [u'the increasing'])]
+--------------------------------------------------
+
+SOURCE        : When the elders live longer , the family size actually increases rather than decreases .
+HYPOTHESIS    : When the elderly live longer , the family size actually increases rather than decreases .
+EDIT SEQ      : [(1, 4, u'the elders live', u'the elderly live')]
+GOLD EDITS    : []
+--------------------------------------------------
+
+SOURCE        : In addition , the younger generation eager to start their own family at another place rather than staying together with family .
+HYPOTHESIS    : In addition , the younger generation eager to start their own family at another place rather than stay together with the family .
+EDIT SEQ      : [(17, 20, u'staying together with', u'stay together with the')]
+GOLD EDITS    : [(12, 13, u'at', [u'in'])]
+--------------------------------------------------
+
+SOURCE        : This phenomenon increases the demand of land property and subsequently affects their price and size together .
+HYPOTHESIS    : This phenomenon increases the demand for land property and subsequently affect their price and size together .
+EDIT SEQ      : [(10, 13, u'affects their price', u'affect their price'), (3, 6, u'the demand of', u'the demand for')]
+GOLD EDITS    : []
+--------------------------------------------------
+
+SOURCE        : Increasing size of population also leads to the problem in food supply .
+HYPOTHESIS    : Increasing the size of the population also led to the problem in the food supply .
+EDIT SEQ      : [(10, 12, u'food supply', u'the food supply'), (3, 6, u'population also leads', u'the population also led'), (1, 3, u'size of', u'the size of')]
+GOLD EDITS    : [(0, 1, u'Increasing', [u'An increasing']), (2, 3, u'of', [u'']), (7, 8, u'the', [u''])]
+--------------------------------------------------
+
+SOURCE        : The production of food is showing a lower growth rate compare to population 's growth rate which will end up with insufficient food in the future .
+HYPOTHESIS    : The production of food is shown a lower growth rate compared to population 's growth rate which will end up insufficient food in future .
+EDIT SEQ      : [(24, 27, u'the future .', u'future .'), (18, 21, u'end up with', u'end up'), (10, 13, u'compare to population', u'compared to population'), (3, 6, u'food is showing', u'food is shown')]
+GOLD EDITS    : [(12, 14, u"population 's", [u"the population 's"])]
+--------------------------------------------------
+
+SOURCE        : Rising life expectancies is also an achievement to governments .
+HYPOTHESIS    : Rising life expectancy is also an achievement of government .
+EDIT SEQ      : [(7, 10, u'to governments .', u'of government .')]
+GOLD EDITS    : [(7, 8, u'to', [u'for']), (8, 9, u'governments', [u'the governments'])]
+--------------------------------------------------
+
+SOURCE        : People expect more on the ground of their current economy , life stability and desire .
+HYPOTHESIS    : People expect more on the ground on their current economy , life stability and desire .
+EDIT SEQ      : [(4, 7, u'the ground of', u'the ground on')]
+GOLD EDITS    : [(7, 8, u'their', [u'the'])]
+--------------------------------------------------
+
+SOURCE        : For an example , one would like to have I-Phone 5 in the past but he or she will expect it to have more functions or operate in faster speed after using it a while .
+HYPOTHESIS    : For example , one would like to have I-Phone 5 in the past but he or she will expect it to have more functions or operate in faster speed after using it a while .
+EDIT SEQ      : []
+GOLD EDITS    : [(27, 28, u'in', [u'at']), (28, 29, u'faster', [u'a faster'])]
+--------------------------------------------------
+
+SOURCE        : Thus , the rising expectancies actually reflect the increasing stability and comfort of people 's life and indirectly reflecting the ability of government to provide people of their current comforts , economical statues , convenience and others .
+HYPOTHESIS    : Thus , the rise expectancy actually reflect the increased stability and comfort of people 's life and indirectly reflects the ability of government to provide people their current comforts , economical statues , convenience and others .
+EDIT SEQ      : [(24, 27, u'provide people of', u'provide people'), (16, 19, u'and indirectly reflecting', u'and indirectly reflects'), (7, 10, u'the increasing stability', u'the increased stability'), (3, 6, u'rising expectancies actually', u'rise expectancy actually')]
+GOLD EDITS    : [(6, 7, u'reflect', [u'reflects']), (22, 23, u'government', [u'the govenment']), (26, 27, u'of', [u'with'])]
+--------------------------------------------------
+
+SOURCE        : All have to work hard and cooperate to deal with these challenges on the way of meeting expectancies .
+HYPOTHESIS    : All have to work hard and cooperate to deal with these challenges on the way of meeting expectancy .
+EDIT SEQ      : [(15, 18, u'of meeting expectancies', u'of meeting expectancy')]
+GOLD EDITS    : [(13, 14, u'the', [u'a'])]
+--------------------------------------------------
+
+SOURCE        : Otherwise , the comfort level of life will be maintained or lowered down when the time passes or people should lower their expectancies of life .
+HYPOTHESIS    : Otherwise , the comfort level of life will be maintained or lower down when the time passes or people should lower their expectation of life .
+EDIT SEQ      : [(20, 23, u'lower their expectancies', u'lower their expectation'), (9, 12, u'maintained or lowered', u'maintained or lower')]
+GOLD EDITS    : [(12, 13, u'down', [u'']), (14, 15, u'the', [u''])]
+--------------------------------------------------
+
+SOURCE        : From another perspective , there are more and more elder people but less younger ones , the increase in population age has weaken the labor force and so on .
+HYPOTHESIS    : From another perspective , there are more and more elderly people but less younger one , the increase in the population age have weakened the labor force and so on .
+EDIT SEQ      : [(19, 22, u'population age has', u'the population age have'), (14, 17, u'ones , the', u'one , the'), (7, 10, u'and more elder', u'and more elderly')]
+GOLD EDITS    : []
+--------------------------------------------------
+
+SOURCE        : In my opinion , the increase in population age is more a challenge than an achievement .
+HYPOTHESIS    : In my opinion , the increase in the population age is more a challenge than an achievement .
+EDIT SEQ      : [(5, 7, u'increase in', u'increase in the')]
+GOLD EDITS    : []
+--------------------------------------------------
+
+SOURCE        : Firstly , the population ageing can be definitely viewed as an improvement of human culture and technology .
+HYPOTHESIS    : Firstly , the population ageing can be definitely viewed as an improvement of human culture and technology .
+EDIT SEQ      : []
+GOLD EDITS    : [(2, 3, u'the', [u''])]
+--------------------------------------------------
+
+SOURCE        : Compare the technology today and the past , we can see that a lot of deceases are treatable , the number of people that died because of the deceases that is not treatable decreases .
+HYPOTHESIS    : Comparing the technology today and the past , we can see that a lot of deceases are treatable , the number of people that died because of the decease that is not treatable decreases .
+EDIT SEQ      : [(26, 29, u'of the deceases', u'of the decease'), (0, 1, u'Compare', u'Comparing')]
+GOLD EDITS    : [(27, 28, u'the', [u'']), (30, 31, u'is', [u'are'])]
+--------------------------------------------------
+
+SOURCE        : The fast development of medicine and technological product makes people 's life much healthier compare to the past .
+HYPOTHESIS    : The fast development of medicine and technological product makes people 's life much healthier compared to the past .
+EDIT SEQ      : [(12, 15, u'much healthier compare', u'much healthier compared')]
+GOLD EDITS    : [(7, 8, u'product', [u'products']), (11, 12, u'life', [u'lives'])]
+--------------------------------------------------
+
+SOURCE        : Moreover , the increased technologies help people to overcome different natural disasters .
+HYPOTHESIS    : Moreover , the increasing technologies help people to overcome different natural disasters .
+EDIT SEQ      : [(1, 4, u', the increased', u', the increasing')]
+GOLD EDITS    : []
+--------------------------------------------------
+
+SOURCE        : People are able to predicate some disasters like the earth quake and do the prevention beforehand .
+HYPOTHESIS    : People are able to predicate some disasters like the earth quake and do prevention beforehand .
+EDIT SEQ      : []
+GOLD EDITS    : [(8, 9, u'the', [u'']), (9, 11, u'earth quake', [u''])]
+--------------------------------------------------
+
+SOURCE        : Although the increase in population ages shows that people have increased knowledge and technologies , it should be considered as a challenge more than an achievement .
+HYPOTHESIS    : Although increases in population ages show that people have increased knowledge and technologies , it should be considered as a challenge more than achievement .
+EDIT SEQ      : [(24, 27, u'an achievement .', u'achievement .'), (5, 8, u'ages shows that', u'ages show that'), (1, 4, u'the increase in', u'increases in')]
+GOLD EDITS    : [(5, 6, u'ages', [u'age'])]
+--------------------------------------------------
+
+SOURCE        : The technology is always improving and it never stops , and the lifespan of people are getting longer as well .
+HYPOTHESIS    : The technology is always improving and it never stops , and the lifespan of people are getting long as well .
+EDIT SEQ      : [(15, 18, u'are getting longer', u'are getting long')]
+GOLD EDITS    : [(15, 16, u'are', [u'is'])]
+--------------------------------------------------
+
+SOURCE        : Thus , we should not compare now with the past but we need to worried about the future problems that caused by this situation .
+HYPOTHESIS    : Thus , we should not compare now for the past but we need to worry about future problems that caused by this situation .
+EDIT SEQ      : [(5, 8, u'compare now with', u'compare now for')]
+GOLD EDITS    : []
+--------------------------------------------------
+
+SOURCE        : The first challenge is the decreasing number of new born .
+HYPOTHESIS    : The first challenge is the decreasing number of new born .
+EDIT SEQ      : []
+GOLD EDITS    : [(8, 10, u'new born', [u''])]
+--------------------------------------------------
+
+SOURCE        : As the population ageing are growing , as people getting old , they need to be cared by others and are not able to contribute as the same as they were young .
+HYPOTHESIS    : As the population ages are growing , as people get old , they need to be cared for others and are not able to contribute to the same as they were young .
+EDIT SEQ      : [(23, 26, u'to contribute as', u'to contribute to'), (15, 18, u'be cared by', u'be cared for'), (7, 10, u'as people getting', u'as people get'), (1, 4, u'the population ageing', u'the population ages')]
+GOLD EDITS    : [(1, 2, u'the', [u'']), (4, 5, u'are', [u'is']), (16, 17, u'cared', [u'cared for']), (26, 27, u'the', [u''])]
+--------------------------------------------------
+
+SOURCE        : If the number of old people is too much and there is lesser number of younger people , it will affect the growth of the whole society as the young workers are less , the productivity and technology improvements will be less .
+HYPOTHESIS    : If the number of old people is too much and there are less numbers of young people , it will affect the growth of the whole society as the young workers are less , the productivity and technology improvements will be less .
+EDIT SEQ      : [(11, 17, u'is lesser number of younger people', u'are less numbers of young people')]
+GOLD EDITS    : [(11, 12, u'is', [u'is a'])]
+--------------------------------------------------
+
+SOURCE        : At the same time more people are needed to take care of the old ones , which gives the younger generation extra works .
+HYPOTHESIS    : At the same time more people are needed to take care of old one , which gives the younger generation extra works .
+EDIT SEQ      : [(12, 15, u'the old ones', u'old one')]
+GOLD EDITS    : [(22, 23, u'works', [u'work'])]
+--------------------------------------------------
+
+SOURCE        : The second challenge will be the shortage of natural resources .
+HYPOTHESIS    : The second challenge will be the short of natural resources .
+EDIT SEQ      : [(4, 7, u'be the shortage', u'be the short')]
+GOLD EDITS    : []
+--------------------------------------------------
+
+SOURCE        : As we know that population of human continues in growth year by year , we are using the non-recoverable natural resources in everyday life , for example , the oil , people 's life and technology improvement are not able to continue without the usage of oil .
+HYPOTHESIS    : As we know that populations of human continue in growth year by year , we are using the non-recoverable natural resources in everyday life , for example , the oil , people 's life and technology improvement is not able to continue without the use of oil .
+EDIT SEQ      : [(42, 45, u'without the usage', u'without the use'), (35, 38, u'technology improvement are', u'technology improvement is'), (4, 8, u'population of human continues', u'populations of human continue')]
+GOLD EDITS    : [(4, 5, u'population', [u'the population']), (6, 7, u'human', [u'humans']), (8, 9, u'in', [u'to']), (17, 18, u'the', [u'']), (28, 29, u'the', [u''])]
+--------------------------------------------------
+
+SOURCE        : However , these natural resources are not renewable .
+HYPOTHESIS    : However , these natural resources are not renewable .
+EDIT SEQ      : []
+GOLD EDITS    : [(2, 3, u'these', [u'this']), (4, 5, u'resources', [u'resource']), (5, 6, u'are', [u'is'])]
+--------------------------------------------------
+
+SOURCE        : We do not consider much for our offspring .
+HYPOTHESIS    : We do not consider much as our offspring .
+EDIT SEQ      : [(3, 6, u'consider much for', u'consider much as')]
+GOLD EDITS    : [(5, 6, u'for', [u'about'])]
+--------------------------------------------------
+
+SOURCE        : Ever imagine one day that no natural resources are left what will be the life of our next generation .
+HYPOTHESIS    : Ever imagine one day that no natural resources are left what will be the life of our next generation .
+EDIT SEQ      : []
+GOLD EDITS    : [(2, 3, u'one', [u'the'])]
+--------------------------------------------------
+
+SOURCE        : The increase in population means the larger the natural resources are needed and people have to think out some idea like to prevent using too much natural resources .
+HYPOTHESIS    : The increase in population means the larger the natural resources are needed and people have to think out some ideas like to prevent use too much natural resources .
+EDIT SEQ      : [(23, 26, u'using too much', u'use too much')]
+GOLD EDITS    : [(5, 6, u'the', [u'']), (7, 8, u'the', [u'']), (17, 18, u'out', [u'of'])]
+--------------------------------------------------
+
+SOURCE        : In conclusion , the increase in population age shows both the human technology achievement and the new challenges like lack of young generation .
+HYPOTHESIS    : In conclusion , the increase in the population age shows both the human technology achievements and new challenges like lack of young generation .
+EDIT SEQ      : [(11, 14, u'human technology achievement', u'human technology achievements'), (4, 6, u'increase in', u'increase in the')]
+GOLD EDITS    : [(18, 19, u'like', [u'like a']), (20, 21, u'of', [u''])]
+--------------------------------------------------
+
+SOURCE        : We have to consider more about our future generation , aware of the problem that over aging brought to us and come up with ideas to solve these challenges .
+HYPOTHESIS    : We have to consider more about our future generations , aware of the problem that over aging brings us and come up with ideas to solve these challenges .
+EDIT SEQ      : [(15, 19, u'over aging brought to', u'over aging brings')]
+GOLD EDITS    : [(10, 11, u'aware', [u'be aware']), (13, 14, u'problem', [u'problems'])]
+--------------------------------------------------
+
+SOURCE        : Soon after coming into the industrial age , human released the weapon and brings up a new technologic era .
+HYPOTHESIS    : Soon after coming into the industrial age , human releasing the weapon and bring up a new technologic era .
+EDIT SEQ      : [(11, 14, u'weapon and brings', u'weapon and bring'), (7, 10, u', human released', u', human releasing')]
+GOLD EDITS    : [(8, 9, u'human', [u'humans']), (10, 11, u'the', [u'a']), (14, 15, u'up', [u''])]
+--------------------------------------------------
+
+SOURCE        : An improvement in engineering and medical science had been valued since humanism arises .
+HYPOTHESIS    : An improvement in engineering and medical science has been valued since humanism arise .
+EDIT SEQ      : [(12, 14, u'arises .', u'arise .'), (5, 8, u'medical science had', u'medical science has')]
+GOLD EDITS    : [(0, 2, u'An improvement', [u'Improvement'])]
+--------------------------------------------------
+
+SOURCE        : Studies have shown that the average life span or human being rising gradually over years , in the sense that the improvement of global technology in medicine helps human to live longer and enjoyed the world even more .
+HYPOTHESIS    : Studies have shown that the average life span or human been rises gradually over years , in the sense that the improvement of global technology in medicine helps human to live longer and enjoy the world even more .
+EDIT SEQ      : [(31, 34, u'longer and enjoyed', u'longer and enjoy'), (10, 13, u'being rising gradually', u'been rises gradually')]
+GOLD EDITS    : [(9, 10, u'human', [u'humans']), (14, 15, u'years', [u'the years']), (28, 29, u'human', [u'humans'])]
+--------------------------------------------------
+
+SOURCE        : In spite of that , people should aware that the power of science is not almighty , life will still go to their last page without revelation .
+HYPOTHESIS    : In spite of that , people should aware that the power of science is not almighty , life will still go to their last page without revelation .
+EDIT SEQ      : []
+GOLD EDITS    : [(7, 8, u'aware', [u'be aware']), (22, 23, u'their', [u'the'])]
+--------------------------------------------------
+
+SOURCE        : Since not all of the human being is going to be a doctor , people relies the skills of treatment of doctors and hence , they start to ignore the maintenance of their own health .
+HYPOTHESIS    : Since not all human being is going to be a doctor , people rely the skills of treatment of doctors and hence , they start to ignore the maintenance of their own health .
+EDIT SEQ      : []
+GOLD EDITS    : [(6, 7, u'being', [u'beings']), (7, 8, u'is', [u'are']), (16, 17, u'the', [u'on the'])]
+--------------------------------------------------
+
+SOURCE        : There is needless to doubt that the medical technology has enhanced day by day .
+HYPOTHESIS    : There is needed to doubt that medical technology has enhanced day by day .
+EDIT SEQ      : [(1, 4, u'is needless to', u'is needed to')]
+GOLD EDITS    : []
+--------------------------------------------------
+
+SOURCE        : In the past , when people injured or fall into sickness , there is no guarantee that the people will get well treatment and fully recovered , therefore people can easily die by infected of a small disease .
+HYPOTHESIS    : In the past , when people injured or fall into sickness , there is no guarantee that people will get well treatment and fully recovered , therefore people can easily die by infecting with a small disease .
+EDIT SEQ      : [(31, 34, u'die by infected', u'die by infecting'), (15, 18, u'guarantee that the', u'guarantee that')]
+GOLD EDITS    : [(6, 7, u'injured', [u'were injured']), (9, 10, u'into', [u''])]
+--------------------------------------------------
+
+SOURCE        : With the grand medical skill we are having nowadays , human lived longer and hence , a great increasing in population .
+HYPOTHESIS    : With the grand medical skill we are having nowadays , human live longer and hence , a great increase in population .
+EDIT SEQ      : [(16, 19, u'a great increasing', u'a great increase'), (9, 12, u', human lived', u', human live')]
+GOLD EDITS    : [(6, 8, u'are having', [u'have']), (10, 11, u'human', [u'humans'])]
+--------------------------------------------------
+
+SOURCE        : It would be great if life expectancies keep rising up day by day , but in reality , it does not seem to be so easy .
+HYPOTHESIS    : It would be great if life expectancy keeps rising up day by day , but in reality , it does not seem to be so easy .
+EDIT SEQ      : [(7, 10, u'keep rising up', u'keeps rising up')]
+GOLD EDITS    : []
+--------------------------------------------------
+
+SOURCE        : Firstly , although the treatment is reliable , people would still need to have the awareness of their own health condition .
+HYPOTHESIS    : Firstly , although the treatment is reliable , people would still need to have the awareness of their own health condition .
+EDIT SEQ      : []
+GOLD EDITS    : [(3, 4, u'the', [u'']), (14, 15, u'the', [u''])]
+--------------------------------------------------
+
+SOURCE        : Nowadays , the pressure from the head of a company towards those employee caused that people has to be fully concentrate in their jobs and because of that , people starts to ignore their health condition and relies on treatment and supplement .
+HYPOTHESIS    : Nowadays , the pressure in the head of a company towards those employees causes that people have to be fully concentrated in their jobs and because of that , people start to ignore their health condition and rely on treatment and supplements .
+EDIT SEQ      : [(37, 40, u'relies on treatment', u'rely on treatment'), (30, 33, u'starts to ignore', u'start to ignore'), (18, 21, u'be fully concentrate', u'be fully concentrated'), (13, 17, u'caused that people has', u'causes that people have'), (4, 7, u'from the head', u'in the head')]
+GOLD EDITS    : [(11, 12, u'those', [u'the'])]
+--------------------------------------------------
+
+SOURCE        : It is like a key that open up the gate of human body defend system and provide a cleared path for other disease to attack in .
+HYPOTHESIS    : It is like a key that opens up the gates of human body defends system and provide a clear path for other diseases to attack in .
+EDIT SEQ      : [(18, 21, u'cleared path for', u'clear path for'), (11, 14, u'human body defend', u'human body defends'), (7, 10, u'up the gate', u'up the gates')]
+GOLD EDITS    : [(11, 12, u'human', [u'the human']), (25, 26, u'in', [u''])]
+--------------------------------------------------
+
+SOURCE        : Therefore , when the era is improving itself , the disease does it too .
+HYPOTHESIS    : Therefore , when the era is improving itself , the disease does it too .
+EDIT SEQ      : []
+GOLD EDITS    : [(5, 7, u'is improving', [u'improves']), (9, 10, u'the', [u''])]
+--------------------------------------------------
+
+SOURCE        : It is a big challenge to eliminate all the disease in the world and keeping the life span to grow as people do sick every moment .
+HYPOTHESIS    : It is a big challenge to eliminate all disease in the world and keep the life span to grow as people do sick every moment .
+EDIT SEQ      : [(12, 15, u'world and keeping', u'world and keep'), (6, 9, u'eliminate all the', u'eliminate all')]
+GOLD EDITS    : [(15, 16, u'the', [u'']), (16, 18, u'life span', [u'lifespans']), (23, 24, u'sick', [u'sicken'])]
+--------------------------------------------------
+
+SOURCE        : Nevertheless , human still need an improvement .
+HYPOTHESIS    : Nevertheless , human still needs improvement .
+EDIT SEQ      : [(4, 7, u'need an improvement', u'needs improvement')]
+GOLD EDITS    : [(2, 3, u'human', [u'humans'])]
+--------------------------------------------------
+
+SOURCE        : By comparing to the past , it is a big step forward in development of medical science .
+HYPOTHESIS    : By compared to the past , it is a big step forward in the development of medical science .
+EDIT SEQ      : [(1, 4, u'comparing to the', u'compared to the')]
+GOLD EDITS    : [(0, 1, u'By', [u''])]
+--------------------------------------------------
+
+SOURCE        : In the era of Warring State , warriors lose their arms or legs or even all of them .
+HYPOTHESIS    : In the era of Warring Statement , warriors lose their arms or legs or even all of them .
+EDIT SEQ      : [(3, 6, u'of Warring State', u'of Warring Statement')]
+GOLD EDITS    : [(5, 6, u'State', [u'States'])]
+--------------------------------------------------
+
+SOURCE        : The rest of their life has to be relied on their family and the financial support from the others .
+HYPOTHESIS    : The rest of their life has to be relied on their families and financial support from others .
+EDIT SEQ      : [(9, 12, u'on their family', u'on their families')]
+GOLD EDITS    : [(0, 1, u'The', [u'For the']), (7, 9, u'be relied', [u'rely'])]
+--------------------------------------------------
+
+SOURCE        : Their lives are becoming meaningless and a lot of them had chosen to suicide without giving troubles to the others .
+HYPOTHESIS    : Their lives are becoming meaningless and a lot of them have chosen suicide without giving trouble to the other .
+EDIT SEQ      : [(17, 20, u'to the others', u'to the other'), (10, 13, u'had chosen to', u'have chosen')]
+GOLD EDITS    : [(3, 4, u'becoming', [u'become']), (18, 19, u'the', [u''])]
+--------------------------------------------------
+
+SOURCE        : Disabled people walks with artificial legs , man can getting pregnant , even the sexual of a human can be changed just by doing simple surgery .
+HYPOTHESIS    : Disabled people walk with artificial legs , man can get pregnant , even the sex of human can be changed just by doing simple surgery .
+EDIT SEQ      : [(14, 16, u'sexual of', u'sex of')]
+GOLD EDITS    : [(17, 18, u'human', [u'humans'])]
+--------------------------------------------------
+
+SOURCE        : It is really a great achievement in enhancement of technology which should be recorded in history .
+HYPOTHESIS    : It is really a great achievement in the enhancement technology which should be recorded history .
+EDIT SEQ      : [(12, 15, u'be recorded in', u'be recorded'), (8, 9, u'of', '')]
+GOLD EDITS    : []
+--------------------------------------------------
+
+SOURCE        : In conclusion , the reason why population ageing is increasing majority is due to the great improvement of the global medical science .
+HYPOTHESIS    : In conclusion , the reason why population ageing is increasing majority is due to the great improvement of the global medical science .
+EDIT SEQ      : []
+GOLD EDITS    : [(18, 19, u'the', [u''])]
+--------------------------------------------------
+
+SOURCE        : Average life span rise from 45 years old in 1920s to over 65 years old in 2010s .
+HYPOTHESIS    : Average life span rose in 45 years old in 1920s to over 65 years old in 2010s .
+EDIT SEQ      : [(3, 6, u'rise from 45', u'rose in 45')]
+GOLD EDITS    : [(0, 1, u'Average', [u'The average']), (8, 9, u'in', [u'in the']), (15, 16, u'in', [u'in the'])]
+--------------------------------------------------
+
+SOURCE        : In the social science report last year , this number will further increase to 90 years old in 2080s due to the advance medical technology and better living standard .
+HYPOTHESIS    : In the social science report last year , this number will further increase in 90 years old to 2080s due to the advance medical technology and better living standards .
+EDIT SEQ      : [(15, 18, u'years old in', u'years old to'), (11, 14, u'further increase to', u'further increase in')]
+GOLD EDITS    : [(1, 2, u'the', [u'a']), (17, 18, u'in', [u'in the']), (21, 22, u'the', [u''])]
+--------------------------------------------------
+
+SOURCE        : Population ageing means that there are more retired old people in the society and the portion of working adults is decreased .
+HYPOTHESIS    : Population age means that there are more retired old people in the society and the portion of working adults are decreasing .
+EDIT SEQ      : [(17, 21, u'working adults is decreased', u'working adults are decreasing'), (1, 4, u'ageing means that', u'age means that')]
+GOLD EDITS    : [(11, 12, u'the', [u''])]
+--------------------------------------------------
+
+SOURCE        : It may cost higher social cost burden which further leads to the allocation of funds in government yearly budget .
+HYPOTHESIS    : It may cost higher social cost burden which further leads to the allocation of funds in government yearly budget .
+EDIT SEQ      : []
+GOLD EDITS    : [(3, 4, u'higher', [u'a higher']), (11, 12, u'the', [u'a']), (15, 16, u'in', [u'in the'])]
+--------------------------------------------------
+
+SOURCE        : Medical expenses , EPF and accommodation are the costs which directly involved to the old people .
+HYPOTHESIS    : Medical expenses , EPF and accommodation are costs which directly involved with old people .
+EDIT SEQ      : [(11, 13, u'involved to', u'involved with'), (5, 8, u'accommodation are the', u'accommodation are')]
+GOLD EDITS    : [(12, 13, u'to', [u''])]
+--------------------------------------------------
+
+SOURCE        : It is responsibility of government to ensure the living of old people .
+HYPOTHESIS    : It is the responsibility of government to ensure the living in old people .
+EDIT SEQ      : [(7, 10, u'the living of', u'the living in')]
+GOLD EDITS    : [(4, 5, u'government', [u'the government'])]
+--------------------------------------------------
+
+SOURCE        : Otherwise , there are more and more people staying at the street and destroy the good view of Garden City .
+HYPOTHESIS    : Otherwise , there are more and more people stay at the streets and destroy the good view of Garden City .
+EDIT SEQ      : [(8, 12, u'staying at the street', u'stay at the streets')]
+GOLD EDITS    : [(9, 10, u'at', [u'on']), (16, 17, u'view', [u'views']), (18, 19, u'Garden', [u'the Garden'])]
+--------------------------------------------------
+
+SOURCE        : In addition , it is also a challenge for government , family and parents to educate their children about the moral of filial .
+HYPOTHESIS    : In addition , it is also a challenge for government , family and parents to educate their children about the moral of filial .
+EDIT SEQ      : []
+GOLD EDITS    : [(8, 9, u'for', [u'for the']), (11, 12, u'family', [u'families']), (19, 20, u'the', [u''])]
+--------------------------------------------------
+
+SOURCE        : With the moral of filial , most of the children will take care of their parents after their retirement life .
+HYPOTHESIS    : With the moral of filial , most of the children will take care of their parents after their retirement life .
+EDIT SEQ      : []
+GOLD EDITS    : [(1, 2, u'the', [u''])]
+--------------------------------------------------
+
+SOURCE        : It is to prevent from sending them to old folk 's house and do not visit them at all .
+HYPOTHESIS    : It is to prevent from sending them to old folk 's house and do not visit them at all .
+EDIT SEQ      : []
+GOLD EDITS    : [(1, 4, u'is to prevent', [u'prevents']), (7, 8, u'to', [u'to an'])]
+--------------------------------------------------
+
+SOURCE        : We also do not want to see the happening of worst things that parents are dropped by children along the streets and let them die themselves .
+HYPOTHESIS    : We also do not want to see the happenings of worst things that parents are dropping off children along the streets and let them die themselves .
+EDIT SEQ      : [(13, 17, u'parents are dropped by', u'parents are dropping off'), (6, 9, u'see the happening', u'see the happenings')]
+GOLD EDITS    : [(18, 19, u'along', [u'in']), (20, 21, u'streets', [u'street']), (25, 26, u'themselves', [u'by themselves'])]
+--------------------------------------------------
+
+SOURCE        : It may be a challenge but also golden opportunity to educate their children properly to prevent the undesired outcomes .
+HYPOTHESIS    : It may be a challenge but also a golden opportunity to educate their children properly to prevent the undesired outcomes .
+EDIT SEQ      : []
+GOLD EDITS    : [(11, 12, u'their', [u'']), (16, 17, u'the', [u''])]
+--------------------------------------------------
+
+SOURCE        : Life expectancies rise significantly from the past to recent in the whole world .
+HYPOTHESIS    : Life expectancies rise significantly over the past recent in the whole world .
+EDIT SEQ      : [(4, 8, u'from the past to', u'over the past')]
+GOLD EDITS    : [(1, 2, u'expectancies', [u'expectancy']), (9, 10, u'in', [u'all over'])]
+--------------------------------------------------
+
+SOURCE        : It is the outcomes of advance medical technology , changing of lifestyle and higher living standard .
+HYPOTHESIS    : It is the outcome of advance medical technology , change of lifestyle and higher living standards .
+EDIT SEQ      : [(7, 10, u'technology , changing', u'technology , change')]
+GOLD EDITS    : [(10, 11, u'of', [u'']), (11, 12, u'lifestyle', [u'lifestyles'])]
+--------------------------------------------------
+
+SOURCE        : However , among the under-developed countries , developing countries and developed countries , we found that there is longest life span in the developed countries follows by the developing countries and the shortest life span in under-developed countries .
+HYPOTHESIS    : However , among the under-developed countries , developed countries and developing countries , we find that there was longest life span in the developing countries followed by developing countries and the shortest life span in under-developed countries .
+EDIT SEQ      : [(23, 28, u'developed countries follows by the', u'developing countries followed by'), (14, 18, u'found that there is', u'find that there was'), (7, 11, u'developing countries and developed', u'developed countries and developing')]
+GOLD EDITS    : [(18, 19, u'longest', [u'the longest']), (35, 36, u'in', [u'in the'])]
+--------------------------------------------------
+
+SOURCE        : The observation means that the more developed the countries , the longer the life span of citizens .
+HYPOTHESIS    : The observation means that the more developed country , longer the life span of citizens .
+EDIT SEQ      : [(9, 12, u', the longer', u', longer'), (5, 8, u'more developed the', u'more developed')]
+GOLD EDITS    : [(0, 1, u'The', [u'This'])]
+--------------------------------------------------
+
+SOURCE        : In the other words , it also can be said that it is an achievement to obtain an ageing population .
+HYPOTHESIS    : In other words , it also can be said that it is an achievement to obtain an aging population .
+EDIT SEQ      : [(18, 21, u'ageing population .', u'aging population .'), (1, 4, u'the other words', u'other words')]
+GOLD EDITS    : []
+--------------------------------------------------
+
+SOURCE        : It is proud to have the ageing population which is hard to achieve unless there are advance medical technology and higher living standard .
+HYPOTHESIS    : It is proud to have the aging population which is hard to achieve unless there is advance medical technology and higher living standards .
+EDIT SEQ      : [(13, 16, u'unless there are', u'unless there is'), (4, 7, u'have the ageing', u'have the aging')]
+GOLD EDITS    : [(5, 6, u'the', [u'an'])]
+--------------------------------------------------
+
+SOURCE        : Besides that , ageing population has an important and essential thing that we can not buy in cash .
+HYPOTHESIS    : Besides that , ageing population has an important and essential things that we can not buy for cash .
+EDIT SEQ      : [(16, 19, u'in cash .', u'for cash .'), (8, 11, u'and essential thing', u'and essential things')]
+GOLD EDITS    : [(3, 4, u'ageing', [u'an ageing'])]
+--------------------------------------------------
+
+SOURCE        : There is the experience in life time .
+HYPOTHESIS    : There is the experience in a life time .
+EDIT SEQ      : [(3, 5, u'experience in', u'experience in a')]
+GOLD EDITS    : [(2, 3, u'the', [u'']), (4, 5, u'in', [u'over']), (5, 7, u'life time', [u'a lifetime'])]
+--------------------------------------------------
+
+SOURCE        : During the work , supervisor usually asks the so called " old staff ' to lead the newbie .
+HYPOTHESIS    : During the work , supervisors usually ask the so called '' old staff ' to lead the newbie .
+EDIT SEQ      : [(10, 13, u'" old staff', u"'' old staff")]
+GOLD EDITS    : [(0, 1, u'During', [u'At']), (1, 2, u'the', [u'']), (17, 18, u'newbie', [u'newbies'])]
+--------------------------------------------------
+
+SOURCE        : It shows that significant case of the important of experience .
+HYPOTHESIS    : It shows that significant case of the important experience .
+EDIT SEQ      : [(8, 11, u'of experience .', u'experience .')]
+GOLD EDITS    : []
+--------------------------------------------------
+
+SOURCE        : With the existing of experience , we can do the work more quickly without sacrifice the standard and quality .
+HYPOTHESIS    : With the existing of experience , we can do the work more quickly without sacrificing the standard and quality .
+EDIT SEQ      : [(12, 15, u'quickly without sacrifice', u'quickly without sacrificing')]
+GOLD EDITS    : [(15, 16, u'the', [u'']), (16, 17, u'standard', [u'standards'])]
+--------------------------------------------------
+
+SOURCE        : It may leads a shorter ways to the decision and provide more sales and revenue for company .
+HYPOTHESIS    : It may lead a shorter way to the decision and provide more sales and revenue for companies .
+EDIT SEQ      : [(14, 17, u'revenue for company', u'revenue for companies'), (2, 6, u'leads a shorter ways', u'lead a shorter way')]
+GOLD EDITS    : [(3, 4, u'a', [u'to a']), (16, 17, u'company', [u'the company'])]
+--------------------------------------------------
+
+SOURCE        : The economy of country is boosted up and further leads to the new development and rise up our living standard .
+HYPOTHESIS    : The economy of the country was boosted up and further lead to new development and rising up our living standards .
+EDIT SEQ      : [(19, 21, u'standard .', u'standards .'), (15, 18, u'rise up our', u'rising up our'), (9, 11, u'leads to', u'lead to'), (3, 5, u'country is', u'the country was')]
+GOLD EDITS    : [(6, 7, u'up', [u'']), (16, 17, u'up', [u''])]
+--------------------------------------------------
+
+SOURCE        : In conclusion , there are challenges as well as achievement in the rising life expectancies which we can not exclude .
+HYPOTHESIS    : In conclusion , there are challenges as well as achievement in the rising life expectancy which we can not exclude .
+EDIT SEQ      : []
+GOLD EDITS    : [(11, 12, u'the', [u''])]
+--------------------------------------------------
+
+SOURCE        : Therefore , we must encounter the challenges and be proud of the achievement to create a new life for our next generation .
+HYPOTHESIS    : Therefore , we must encounter the challenges and are proud of the achievements to create a new life for our next generation .
+EDIT SEQ      : [(10, 13, u'of the achievement', u'of the achievements'), (6, 9, u'challenges and be', u'challenges and are')]
+GOLD EDITS    : []
+--------------------------------------------------
+
+SOURCE        : In 1712 , Watt renovated the steam machine which increases the efficiency of the fuel .
+HYPOTHESIS    : In 1712 , Watt renovate the steam machine which increases the efficiency of the fuel .
+EDIT SEQ      : [(4, 7, u'renovated the steam', u'renovate the steam')]
+GOLD EDITS    : []
+--------------------------------------------------
+
+SOURCE        : This activity can be marked as the start of the first technology revolution .
+HYPOTHESIS    : This activity can be marked the start the first technology revolution .
+EDIT SEQ      : [(5, 9, u'as the start of', u'the start')]
+GOLD EDITS    : []
+--------------------------------------------------
+
+SOURCE        : As the technology develops faster and faster during 301 years , people not only enjoy more and more materials but also more and more health care which provides convenience in our daily life .
+HYPOTHESIS    : As the technology develops faster and faster during 301 years , people not only enjoy more and more material but also more and more health care which provides convenience in our daily life .
+EDIT SEQ      : [(16, 19, u'and more materials', u'and more material')]
+GOLD EDITS    : [(1, 2, u'the', [u'']), (7, 8, u'during', [u'over'])]
+--------------------------------------------------
+
+SOURCE        : This significantly raised people 's average life expectancy .
+HYPOTHESIS    : This significantly raises people 's average life expectancy .
+EDIT SEQ      : [(1, 4, u'significantly raised people', u'significantly raises people')]
+GOLD EDITS    : []
+--------------------------------------------------
+
+SOURCE        : However , as the life expectancy of people rises , population ageing problem becomes more and more severe as a global phenomenon .
+HYPOTHESIS    : However , as the life expectancy of people rose , population ageing problem becomes more and more severe as a global phenomenon .
+EDIT SEQ      : [(6, 9, u'of people rises', u'of people rose')]
+GOLD EDITS    : [(10, 11, u'population', [u'the population'])]
+--------------------------------------------------
+
+SOURCE        : As the rise of life expectancies can be interpreted as a measure standard of the pace of technology development , it can be seen an achievement of human being .
+HYPOTHESIS    : As the rise in life expectancy can be interpreted as a measure standard of the pace of technology development , it can be seen an achievement of human being .
+EDIT SEQ      : []
+GOLD EDITS    : [(28, 29, u'being', [u'beings'])]
+--------------------------------------------------
+
+SOURCE        : However , as the energy and resources use up , more and more adult people without sufficient power to produce crowd on earth will aggravate the ageing problem , so the rise of life expectancies can also be seen as a challenge .
+HYPOTHESIS    : However , as the energy and resources used up , more and more adult people without sufficient power to produce a crowd on earth will aggravate the aging problem , so the rise in life expectancy can also be seen as a challenge .
+EDIT SEQ      : [(24, 27, u'aggravate the ageing', u'aggravate the aging'), (18, 20, u'to produce', u'to produce a'), (5, 8, u'and resources use', u'and resources used')]
+GOLD EDITS    : [(3, 4, u'the', [u'']), (7, 8, u'use', [u'are used'])]
+--------------------------------------------------
+
+SOURCE        : As we are human who are different from other animals , we have some basic rights like right to privacy , right to live , right to have a family and so on .
+HYPOTHESIS    : As we are human who are different from other animals , we have some basic rights like the right to privacy , right to live , right to have a family and so on .
+EDIT SEQ      : []
+GOLD EDITS    : [(3, 4, u'human', [u'humans']), (21, 22, u'right', [u'the right']), (25, 26, u'right', [u'the right'])]
+--------------------------------------------------
+
+SOURCE        : During the less developed times , due to disasters like droughts ,floods or severe contagious disease like black deaths , people at that time could lose their property and lives easily since they do not have enough power to protect themselves and restore their life in a short time .
+HYPOTHESIS    : During the less developed time , due to disasters like droughts , floods or severe contagious disease like black death , people at that time could lose their property and lives easily since they do not have enough power to protect themselves and restore their lives in a short time .
+EDIT SEQ      : [(42, 45, u'restore their life', u'restore their lives'), (18, 21, u'deaths , people', u'death , people'), (11, 14, u',floods or severe', u', floods or severe'), (4, 7, u'times , due', u'time , due')]
+GOLD EDITS    : [(15, 16, u'disease', [u'diseases']), (16, 17, u'like', [u'like the']), (18, 19, u'deaths', [u'Death'])]
+--------------------------------------------------
+
+SOURCE        : However , as the technology develops , it increased people 's mobility and productivity so as life expectancies .
+HYPOTHESIS    : However , as the technology develops , it increases people 's mobility and productivity so as life expectancy .
+EDIT SEQ      : [(6, 9, u', it increased', u', it increases')]
+GOLD EDITS    : [(3, 4, u'the', [u''])]
+--------------------------------------------------
+
+SOURCE        : As we can use the resources with maximum efficiency , we can enjoy more and more life material than any time of human society .
+HYPOTHESIS    : As we can use the resources with maximum efficiency , we can enjoy more and more life material than any time in human society .
+EDIT SEQ      : [(19, 22, u'any time of', u'any time in')]
+GOLD EDITS    : [(4, 5, u'the', [u'']), (18, 19, u'than', [u'then at'])]
+--------------------------------------------------
+
+SOURCE        : Even when the disaster comes , we can restore the order of our life in a relatively short time than before .
+HYPOTHESIS    : Even when the disaster came , we can restore the order of our life in a relatively short time than before .
+EDIT SEQ      : [(4, 7, u'comes , we', u'came , we')]
+GOLD EDITS    : [(2, 3, u'the', [u''])]
+--------------------------------------------------
+
+SOURCE        : For example , the tsunami in Tohoku of Japan in 2011 is " the toughest and the most difficult crisis for Japan in the 65 years after the end of World War II " as CNN commented .
+HYPOTHESIS    : For example , the tsunami in Tohoku of Japan in 2011 is '' the toughest and the most difficult crisis in Japan in the 65 years after the end of World War II '' to CNN comments .
+EDIT SEQ      : [(33, 38, u'" as CNN commented .', u"'' to CNN comments ."), (18, 21, u'difficult crisis for', u'difficult crisis in'), (10, 13, u'2011 is "', u"2011 is ''")]
+GOLD EDITS    : []
+--------------------------------------------------
+
+SOURCE        : ( CNN , 2011 ) However , only one year has passed , most of the survivors have come back to their normal life although with a sad memory .
+HYPOTHESIS    : ( CNN , 2011 ) However , only one year has passed , most of the survivors have come back to their normal life although with a sad memory .
+EDIT SEQ      : []
+GOLD EDITS    : [(23, 24, u'life', [u'lives']), (26, 27, u'a', [u'']), (28, 29, u'memory', [u'memories'])]
+--------------------------------------------------
+
+SOURCE        : This is not imaginable during less developed times .
+HYPOTHESIS    : This is not imaginable during less development times .
+EDIT SEQ      : [(6, 9, u'developed times .', u'development times .')]
+GOLD EDITS    : []
+--------------------------------------------------
+
+SOURCE        : With the strong back support of technology , the rises of life expectancies can be seen as an achievement to the development of our human society .
+HYPOTHESIS    : With the strong back support of technology , the rise in life expectancy can be seen as an achievement in the development of our human society .
+EDIT SEQ      : [(17, 20, u'an achievement to', u'an achievement in'), (7, 10, u', the rises', u', the rise')]
+GOLD EDITS    : []
+--------------------------------------------------
+
+SOURCE        : However , along with the increase of life expectancies , ageing problems becomes more and more severe .
+HYPOTHESIS    : However , along with the increase in life expectancy , aging problems become more and more severe .
+EDIT SEQ      : [(9, 13, u', ageing problems becomes', u', aging problems become'), (4, 7, u'the increase of', u'the increase in')]
+GOLD EDITS    : []
+--------------------------------------------------
+
+SOURCE        : Two of the most important causes of ageing problem is the increasing longevity and declining fertility .
+HYPOTHESIS    : Two of the most important causes of aging problem is the increasing longevity and declining fertility .
+EDIT SEQ      : [(5, 8, u'causes of ageing', u'causes of aging')]
+GOLD EDITS    : [(7, 8, u'ageing', [u'the ageing']), (9, 10, u'is', [u'are']), (10, 11, u'the', [u''])]
+--------------------------------------------------
+
+SOURCE        : The increasing longevity is due to fast development of the society so as the living pressure .
+HYPOTHESIS    : The increased longevity is due to fast development of society so as the living pressure .
+EDIT SEQ      : [(1, 4, u'increasing longevity is', u'increased longevity is')]
+GOLD EDITS    : [(6, 7, u'fast', [u'the fast']), (13, 14, u'the', [u''])]
+--------------------------------------------------
+
+SOURCE        : As people who are incapable of production become more and more , our society follows a downward trend .
+HYPOTHESIS    : As peoples who are incapable of product becomes more and more , our societies follow a downward trend .
+EDIT SEQ      : [(13, 17, u'society follows a downward', u'societies follow a downward'), (5, 9, u'of production become more', u'of product becomes more'), (1, 4, u'people who are', u'peoples who are')]
+GOLD EDITS    : []
+--------------------------------------------------
+
+SOURCE        : In modern world , many global issues have been appeared like global warming , concept of earth village and population .
+HYPOTHESIS    : In the modern world , many global issues have been appearing like global warming , concept of earth village and population .
+EDIT SEQ      : [(7, 10, u'have been appeared', u'have been appearing')]
+GOLD EDITS    : [(8, 9, u'been', [u'']), (14, 15, u'concept', [u'the concept'])]
+--------------------------------------------------
+
+SOURCE        : Nowadays , population aging is becoming a problem especially in the developed countries .
+HYPOTHESIS    : Nowadays , population aging is becoming a problem especially in developing countries .
+EDIT SEQ      : [(10, 13, u'the developed countries', u'developing countries')]
+GOLD EDITS    : [(5, 6, u'becoming', [u'become'])]
+--------------------------------------------------
+
+SOURCE        : Population ageing also has brought us a question on whether we should raise life expectancies , it is challenging also can get some achievement .
+HYPOTHESIS    : Population ageing also has brought us a question on whether we should raise life expectancy , it is challenging also can get some achievement .
+EDIT SEQ      : []
+GOLD EDITS    : [(2, 4, u'also has', [u'has also']), (6, 7, u'a', [u'']), (22, 23, u'some', [u'an'])]
+--------------------------------------------------
+
+SOURCE        : In the first place , rising life expectancies could cause resources challenge .
+HYPOTHESIS    : In the first place , rising life expectancy could cause resources challenge .
+EDIT SEQ      : []
+GOLD EDITS    : [(10, 11, u'resources', [u'resource']), (11, 12, u'challenge', [u'challenges'])]
+--------------------------------------------------
+
+SOURCE        : In some very small and developed regions and countries like Singapore and Hong Kong , if people still increase the humans ' life , but for these small developed regions , the resources are very limited especially land .
+HYPOTHESIS    : In some very small and developing regions and countries like Singapore and Hong Kong , if people still increasing the human ' life , but in these small developing regions , the resources are very limited especially land .
+EDIT SEQ      : [(25, 29, u'for these small developed', u'in these small developing'), (18, 22, u"increase the humans '", u"increasing the human '"), (3, 6, u'small and developed', u'small and developing')]
+GOLD EDITS    : []
+--------------------------------------------------
+
+SOURCE        : Because the land is limited , so the average land for one person is very small already .
+HYPOTHESIS    : Because the land is limited , so the average land from one person is very small already .
+EDIT SEQ      : [(8, 11, u'average land for', u'average land from')]
+GOLD EDITS    : []
+--------------------------------------------------
+
+SOURCE        : In economic , we can use GDP to explain the challenge , if GDP is low , it shows that most of people are living in a hard life , life quality is bad , then it will cause the terrible society problem , at last , it will happen the society disturbance .
+HYPOTHESIS    : In economic , we can use GDP to explain the challenges , if GDP is low , it shows that most people are living in a hard life , life quality is bad , then it will cause the terrible social problem , at last , it will happen the society disturbance .
+EDIT SEQ      : [(39, 42, u'the terrible society', u'the terrible social'), (19, 22, u'that most of', u'that most'), (8, 11, u'explain the challenge', u'explain the challenges')]
+GOLD EDITS    : [(22, 23, u'people', [u'the people']), (25, 26, u'in', [u'']), (39, 40, u'the', [u'']), (42, 43, u'problem', [u'problems']), (50, 51, u'the', [u''])]
+--------------------------------------------------
+
+SOURCE        : The reason why it will happen is because people have violated the natural regulation .
+HYPOTHESIS    : The reason why it will happen is because people have violated the natural regulation .
+EDIT SEQ      : []
+GOLD EDITS    : [(11, 12, u'the', [u''])]
+--------------------------------------------------
+
+SOURCE        : Because the life and health are most significant , people have their own reasons to hope living longer .
+HYPOTHESIS    : Because the life and health are most significant , people have their own reasons to hope live longer .
+EDIT SEQ      : [(16, 19, u'living longer .', u'live longer .')]
+GOLD EDITS    : [(1, 2, u'the', [u''])]
+--------------------------------------------------
+
+SOURCE        : On medicine , people have done a lot of researches on life science .
+HYPOTHESIS    : On medicine , people have done a lot of researches in life sciences .
+EDIT SEQ      : [(11, 14, u'life science .', u'life sciences .')]
+GOLD EDITS    : [(0, 1, u'On', [u'In']), (9, 10, u'researches', [u'research'])]
+--------------------------------------------------
+
+SOURCE        : Also people begin to realize the importance of the environment , how to protect people from the harmful air .
+HYPOTHESIS    : Also people began to realize the importance of the environment , how to protect people from the harmful air .
+EDIT SEQ      : [(1, 4, u'people begin to', u'people began to')]
+GOLD EDITS    : [(16, 17, u'the', [u''])]
+--------------------------------------------------
+
+SOURCE        : So according to the humanism , people should make contribution to rising the humans life , because people should consider the feelings if one day when you are becoming older and older , so respecting life should be considered carefully .
+HYPOTHESIS    : So according to human , people should make contributions to rise the humans life , because people should consider the feelings if one day when you are becoming older and older , so respect life should be considered carefully .
+EDIT SEQ      : [(32, 35, u', so respecting', u', so respect'), (8, 12, u'make contribution to rising', u'make contributions to rise'), (4, 7, u'humanism , people', u'human , people')]
+GOLD EDITS    : [(9, 10, u'contribution', [u'a contribution']), (12, 13, u'the', [u'']), (20, 21, u'the', [u''])]
+--------------------------------------------------
+
+SOURCE        : In addition , now there appears a contradiction if rising life expectancies , it will lead a resources problem .
+HYPOTHESIS    : In addition , now there appears a contradiction if rising life expectancy , it will lead a resources problem .
+EDIT SEQ      : []
+GOLD EDITS    : [(8, 9, u'if', [u'in']), (15, 16, u'lead', [u'lead to']), (17, 18, u'resources', [u'resource'])]
+--------------------------------------------------
+
+SOURCE        : However , based on the humanism , humans are different from the animals , people should respect every life .
+HYPOTHESIS    : However , based on human , humans are different animals , people should respect every life .
+EDIT SEQ      : [(9, 13, u'different from the animals', u'different animals'), (5, 8, u'humanism , humans', u'human , humans')]
+GOLD EDITS    : []
+--------------------------------------------------
+
+SOURCE        : In my opinion , I think we should study balance it well , one side we should continue to make efforts to raise the humans life , one side , we should consider using asking some sick old men whether if they want to take euthanasia .
+HYPOTHESIS    : In my opinion , I think we should study balance it well , one side we should continue to make efforts to raise the humans life , one side , we should consider using ask some sick old man whether if they want to take euthanasia .
+EDIT SEQ      : [(36, 39, u'sick old men', u'sick old man'), (32, 35, u'consider using asking', u'consider using ask')]
+GOLD EDITS    : []
+--------------------------------------------------
+
+SOURCE        : To summary , we respect every life , also help people to live longer .
+HYPOTHESIS    : To summary , we respect every life , also help people to live longer .
+EDIT SEQ      : []
+GOLD EDITS    : [(0, 1, u'To', [u'In'])]
+--------------------------------------------------
+
+SOURCE        : In conclusion , what I have mentioned above , although global aging issue has become more serious on humans development , if we can balance and understand why we live .
+HYPOTHESIS    : In conclusion , what I have mentioned above , although global age issue has become more serious about humans development , if we can balance and understand why we live .
+EDIT SEQ      : [(15, 18, u'more serious on', u'more serious about'), (9, 12, u'although global aging', u'although global age')]
+GOLD EDITS    : [(10, 11, u'global', [u'the global']), (17, 18, u'on', [u'for'])]
+--------------------------------------------------
+
+SOURCE        : Then try to invent new energy and legitimately control population birth rate , then developing the medical treatment and paying enough attention , we have reasons to trust , population aging will not be problem at all .
+HYPOTHESIS    : Then try to invent new energy and legitimately control population birth rate , then develop the medical treatment and pay enough attention , we have reason to trust , population aging will not be a problem at all .
+EDIT SEQ      : [(23, 26, u'we have reasons', u'we have reason'), (19, 22, u'paying enough attention', u'pay enough attention'), (12, 15, u', then developing', u', then develop')]
+GOLD EDITS    : [(8, 9, u'control', [u'control the']), (15, 16, u'the', [u''])]
+--------------------------------------------------
+
+SOURCE        : Subsequently , a lot of problems regarding to it are arising .
+HYPOTHESIS    : Subsequently , a lot of problems regarding it is arising .
+EDIT SEQ      : [(7, 10, u'to it are', u'it is')]
+GOLD EDITS    : []
+--------------------------------------------------
+
+SOURCE        : Due the rise of the life span and the shrink of the birth rate , the portion of the elderly portion is larger and larger .
+HYPOTHESIS    : Due the rise of life span and shrink at birth rate , the portion of the elderly portion is larger and larger .
+EDIT SEQ      : [(8, 11, u'the shrink of', u'shrink at')]
+GOLD EDITS    : [(0, 1, u'Due', [u'Due to']), (18, 19, u'the', [u''])]
+--------------------------------------------------
+
+SOURCE        : As our society develops , the people have a much higher living standard , which will reduce the chance of getting disease .
+HYPOTHESIS    : As our society develops , the people have a much higher living standards , which will reduce the chance of getting a disease .
+EDIT SEQ      : [(21, 23, u'disease .', u'a disease .'), (10, 13, u'higher living standard', u'higher living standards')]
+GOLD EDITS    : [(5, 6, u'the', [u''])]
+--------------------------------------------------
+
+SOURCE        : Besides , as the development of the technology , the medical therapy also has a tremendous progress .
+HYPOTHESIS    : Besides , in the development of technology , the medical therapy also has tremendous progress .
+EDIT SEQ      : [(5, 8, u'of the technology', u'of technology'), (1, 4, u', as the', u', in the')]
+GOLD EDITS    : [(2, 3, u'as', [u'with']), (9, 10, u'the', [u''])]
+--------------------------------------------------
+
+SOURCE        : On the other hand , the birth rate in many countries keeps decreasing , whose figure is the lowest record comparing to previous figure .
+HYPOTHESIS    : On the other hand , the birth rates in many countries keep decreasing , whose figure is the lowest record compared to the previous figure .
+EDIT SEQ      : [(18, 21, u'lowest record comparing', u'lowest record compared'), (9, 12, u'many countries keeps', u'many countries keep'), (5, 8, u'the birth rate', u'the birth rates')]
+GOLD EDITS    : []
+--------------------------------------------------
+
+SOURCE        : Maybe , it is because the modern society is become more and more competitive , the parents are paying much attention and importance to their career .
+HYPOTHESIS    : Maybe , it is because modern society is becoming more and more competitive , the parents are paying much attention and important to their career .
+EDIT SEQ      : [(20, 23, u'attention and importance', u'attention and important'), (9, 12, u'become more and', u'becoming more and')]
+GOLD EDITS    : [(15, 16, u'the', [u'']), (25, 26, u'career', [u'careers'])]
+--------------------------------------------------
+
+SOURCE        : Maybe that 's one reason for the reducing of the birth rate .
+HYPOTHESIS    : Maybe that 's one reason for reducing at birth rate .
+EDIT SEQ      : [(6, 11, u'the reducing of the birth', u'reducing at birth')]
+GOLD EDITS    : [(8, 9, u'of', [u'in'])]
+--------------------------------------------------
+
+SOURCE        : The fact is that the current average life span is over 65 and the population aged 60 or over in developed and developing countries is increasing at 2 % to 3 % annually .
+HYPOTHESIS    : The fact is that the current average life span is over 65 and the population aged 60 or over developed and developing countries is increasing at 2 % to 3 % annually .
+EDIT SEQ      : [(17, 20, u'or over in', u'or over')]
+GOLD EDITS    : []
+--------------------------------------------------
+
+SOURCE        : This survey evidently shows that big achievement has been made in the medical area and people 's living standard has been improved .
+HYPOTHESIS    : This survey evidently shows that big achievement has been made in the medical area and people 's living standard has been improved .
+EDIT SEQ      : []
+GOLD EDITS    : [(0, 1, u'This', [u'A']), (20, 21, u'been', [u''])]
+--------------------------------------------------
+
+SOURCE        : It also indicates that the economy has been dramatically grown .
+HYPOTHESIS    : It also indicates that the economy has been dramatically growing .
+EDIT SEQ      : [(7, 10, u'been dramatically grown', u'been dramatically growing')]
+GOLD EDITS    : [(7, 8, u'been', [u''])]
+--------------------------------------------------
+
+SOURCE        : First , if the older people increase , there will be fewer workforces that can support the society .
+HYPOTHESIS    : First , if the older people increases , there will be fewer workforce that can support the society .
+EDIT SEQ      : [(4, 7, u'older people increase', u'older people increases')]
+GOLD EDITS    : [(10, 11, u'be', [u'be a']), (16, 17, u'the', [u''])]
+--------------------------------------------------
+
+SOURCE        : However , ageing population will also increase many kinds of other expenditure .
+HYPOTHESIS    : However , aging population will also increase many kinds of other expenditures .
+EDIT SEQ      : [(9, 12, u'of other expenditure', u'of other expenditures'), (1, 4, u', ageing population', u', aging population')]
+GOLD EDITS    : [(2, 3, u'ageing', [u'an ageing'])]
+--------------------------------------------------
+
+SOURCE        : The most important part is health care and old-age pension .
+HYPOTHESIS    : The most important part is health care and old-age pension .
+EDIT SEQ      : []
+GOLD EDITS    : [(9, 10, u'pension', [u'pensions'])]
+--------------------------------------------------
+
+SOURCE        : As elderly people , they need more money for health care than the younger .
+HYPOTHESIS    : of elderly people , they need more money for health care than younger .
+EDIT SEQ      : [(0, 1, u'As', u'of')]
+GOLD EDITS    : []
+--------------------------------------------------
+
+SOURCE        : Government should also make a bigger amount of pension expenditure .
+HYPOTHESIS    : Governor should also make a bigger amount of pension expenditure .
+EDIT SEQ      : [(0, 3, u'Government should also', u'Governor should also')]
+GOLD EDITS    : []
+--------------------------------------------------
+
+SOURCE        : Secondly , for the older people , more facilities and service for them should be provided .
+HYPOTHESIS    : Secondly , older people , more facilities and services for them should be provided .
+EDIT SEQ      : [(8, 11, u'facilities and service', u'facilities and services'), (1, 3, u', for', u',')]
+GOLD EDITS    : []
+--------------------------------------------------
+
+SOURCE        : So more manpower will be employed , which deduces the labour in other area .
+HYPOTHESIS    : So more manpower will be employed , which deduces the labor in other areas .
+EDIT SEQ      : [(10, 13, u'labour in other', u'labor in other')]
+GOLD EDITS    : [(9, 10, u'the', [u''])]
+--------------------------------------------------
+
+SOURCE        : To pay this extra money , government will exert higher taxed on the other people .
+HYPOTHESIS    : To pay this extra money , government will exert higher taxes on other people .
+EDIT SEQ      : [(8, 11, u'exert higher taxed', u'exert higher taxes')]
+GOLD EDITS    : []
+--------------------------------------------------
+
+SOURCE        : Thirdly , compared to the young people , the security of the elderly is more notable .
+HYPOTHESIS    : Thirdly , compared to young people , the security of the elderly are more notable .
+EDIT SEQ      : [(11, 14, u'the elderly is', u'the elderly are')]
+GOLD EDITS    : []
+--------------------------------------------------
+
+SOURCE        : Therefore , some measurement and education about this should be taken by the government and the surrounding people to ensure the security of the old people .
+HYPOTHESIS    : Therefore , some measure and education about this should be taken by the government and the surrounding people to ensure the security for old people .
+EDIT SEQ      : [(20, 24, u'the security of the', u'the security for'), (1, 4, u', some measurement', u', some measure')]
+GOLD EDITS    : []
+--------------------------------------------------
+
+SOURCE        : To conclude , the population ageing phenomenon indeed shows our big achievement on economy , medical skills and living standard .
+HYPOTHESIS    : To conclude , the population aging phenomena indeed show our big achievement on the economy , medical skills and living standards .
+EDIT SEQ      : [(17, 20, u'and living standard', u'and living standards'), (11, 13, u'achievement on', u'achievement on the'), (5, 10, u'ageing phenomenon indeed shows our', u'aging phenomena indeed show our')]
+GOLD EDITS    : [(12, 13, u'on', [u'in'])]
+--------------------------------------------------
+
+SOURCE        : Nonetheless , the issues it brings out are more worthy to be considered .
+HYPOTHESIS    : Nonetheless , the issues it brings out is more worthy to be considered .
+EDIT SEQ      : [(5, 8, u'brings out are', u'brings out is')]
+GOLD EDITS    : []
+--------------------------------------------------
+
+SOURCE        : More elderly people will bring a big extra burden to the society and government .
+HYPOTHESIS    : More elderly people will bring a big extra burden to the society and government .
+EDIT SEQ      : []
+GOLD EDITS    : [(10, 11, u'the', [u''])]
+--------------------------------------------------
